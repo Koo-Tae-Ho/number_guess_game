@@ -1,6 +1,4 @@
-<aside>
-💡 숫자 맞추기 게임 
-</aside>
+## <aside> 💡 숫자 맞추기 게임 </aside>
 <br />
 랜덤한 숫자를 Up &amp; Down을 통해 맞추는 간단한 게임입니다.
 
