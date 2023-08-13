@@ -1,4 +1,4 @@
-## <aside> 💡 숫자 맞추기 게임 </aside> 
+## <aside> 💡 랜덤숫자 맞추기 게임 </aside> 
 랜덤한 숫자를 Up &amp; Down을 통해 맞추는 간단한 게임입니다.
 
 ## 사용한 로직
@@ -13,4 +13,4 @@
 - 유저가 이미 입력한 숫자를 또 입력하면 이미 입력했다고 알려주고, 기회는 깍지 않는다.
 
 ## 사용해보기
-[바로가기](koo-guessnumbergame.netlify.app)
+[랜덤 숫자 맞추기 게임 바로가기](koo-guessnumbergame.netlify.app)
