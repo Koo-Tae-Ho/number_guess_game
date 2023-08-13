@@ -13,4 +13,4 @@
 - 유저가 이미 입력한 숫자를 또 입력하면 이미 입력했다고 알려주고, 기회는 깍지 않는다.
 
 ## 사용해보기
-[](koo-guessnumbergame.netlify.app)
+[랜덤숫자 맞추기 게임 바로가기](https://koo-guessnumbergame.netlify.app)
