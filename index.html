@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="pre-title">IT's 동아리 MT</h1>
+      <h1 class="title">술게임</h1>
+      <h1 class="sub-title"><span class="red-text">죽음</span>의 Up & Down</h1>
+      <div id="result-area">
+        <img
+          src="https://media1.giphy.com/media/9DinPR8bzFsmf74j9W/giphy.gif"
+          class="main-img"
+        />
+        <h1 class="result-text" id="result_area">먹기 싫다면 맞춰라</h1>
+        <h1 id="chance_area">남은찬스:5번</h1>
+      </div>
+ 
+      <div class="row d-flex justify-content-center mt-4"> <!-- mt-4로 변경하여 상단 여백을 조금 줄입니다. -->
+        <div class="col-md-8 d-flex justify-content-between">
+            <input type="number" id="user_input" class="form-control mr-2" placeholder="1부터 100까지 숫자를 입력" />
+            <div class="d-flex align-items-center">
+                <button class="btn btn-success button-style mr-2" id="play_button">
+                    Go!
+                </button>
+                <button class="btn btn-warning button-style" id="reset_button">
+                    Reset!
+                </button>
+            </div>
+        </div>
+    </div>
+    
+    
+
+    <script src="main.js"></script>
+  </body>
+</html>
